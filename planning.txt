@@ -1,0 +1,10 @@
+Will need a section for the question txt to display
+A section for the answers to display
+A next button
+A section for the score to display
+
+Questions will need to be in an arrary
+
+When a user clicks an answer, if their answer matches the correct one, then their score is increamented, otherwise nothing is added to their score
+
+Will need a state that manages the score and this will update the score accordingly
